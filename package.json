@@ -1,0 +1,24 @@
+{
+  "name": "ciao-examples",
+  "preferGlobal": true,
+  "private": false,
+  "version": "0.0.1",
+  "description": "Example scripts and server for ciao",
+  "contributors": [],
+  "dependencies": {
+    "ciao": "0.3.1",
+    "express": "~3.2.3"
+  },
+  "scripts": {
+    "start": "node runner.js"
+  },
+  "readme": "# Example scripts and server for ciao.\n\nFull documentation: http://missinglink.github.com/ciao/",
+  "engines": {
+    "node": ">0.6.0",
+    "npm": ">1.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/missinglink/ciao-examples.git"
+  }
+}

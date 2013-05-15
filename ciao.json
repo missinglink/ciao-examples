@@ -1,0 +1,10 @@
+{
+  "defaults": {
+    "host": "localhost",
+    "port": 8080,
+    "headers": {
+      "User-Agent": "Ciao/Client 1.0"
+    }
+  },
+  "config": {}
+}

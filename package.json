@@ -10,7 +10,7 @@
     "express": "~3.2.3"
   },
   "scripts": {
-    "start": "node runner.js"
+    "test": "node runner.js"
   },
   "readme": "# Example scripts and server for ciao.\n\nFull documentation: http://missinglink.github.com/ciao/",
   "engines": {
